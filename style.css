@@ -1,0 +1,211 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* header-area-start  */
+
+header {
+    background: #F0FFF0;
+}
+
+
+.navbar-brand img {
+    height: 45px;
+    
+}
+
+.navbar-nav {
+    font-weight: bold;
+}
+
+a.nav-item.nav-link {
+    margin-left: 30px;
+}
+
+#green-btn{
+    background: #21B573;
+    border-radius: 25px;
+    padding: 10px;
+}
+a#green-btn:hover {
+    color: white;
+}
+
+/* top-banner-area-start */
+
+.green-text {
+    color: #21B573;
+    font-weight: 900;
+
+}
+
+.top-banner {
+    padding: 40px 0;
+    background: #F0FFF0;
+}
+.top-banner h1 {
+    font-size: 48px;
+    letter-spacing: 4px;
+}
+
+.btn-style {
+    background: #21B573;
+    border-radius: 25px;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+.btn-style:hover{
+    color: black;
+}
+
+
+
+/* key-features-area-start  */
+
+.key-area{
+    padding: 50px;
+}
+
+
+.key-area img.card-img-top {
+    width: 50px;
+    margin: 0 auto;
+}
+.key-area .card-body {
+    text-align: center;
+    padding: 30px;
+}
+.key-area .card img {
+    padding-top: 40px;
+}
+
+.card .card-title {
+    font-size: 24px;
+    font-weight: 700;
+
+}
+
+.key-area .card{
+    border:none;
+    transition: .2s ease;
+    background: #F0FFF0;
+}
+.key-area .card:hover{
+    background: #FFFFFF;
+    box-shadow: 10px 10px  50px #E8E8E8;
+    border-radius: 10px;
+}
+
+/* online-corse-area-start */
+
+.online-course .card-img-top {
+    padding: 30px;
+}
+.online-course .card-body {
+    padding-top: 0px;
+}
+.card-body a {
+    margin-top: 0px;
+}
+.card-title {
+    margin-bottom: 0;
+    color: #413960;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+}
+.online-course .card {
+    border: none;
+    background: #FFFFFF;
+    box-shadow: 0px 5px 10px gainsboro;
+    border-radius: 18px;
+}
+.icon img {
+    width: 20px;
+    height: 20px;
+}
+
+.icon p {
+    margin-bottom: 0;
+    padding-left: 5px;
+    font-size: 14px;;
+}
+
+.card-icon {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.icon {
+    display: flex;
+    font-size: smaller;
+}
+
+
+
+ /* testimonial-area-start */
+
+.testimonial-area {
+    margin-top: 100px;
+}
+
+
+.testimonial {
+    display: flex;
+    align-items: center;
+    width: 80%;
+    margin:  auto;
+    justify-content: space-between;
+}
+
+.testimonial img {
+    max-width: 70%;
+    
+}
+
+/* form-area-start */
+
+.form-area {
+    padding: 50px 0;
+    background: #F0FFF0;
+    margin-top: 40px;
+    
+}
+
+.form-area h2 {
+    padding-bottom: 20px;
+    letter-spacing: 3px;
+}
+
+
+/* footer-area-start */
+
+footer {
+    background: #282531;
+    padding-top: 20px;
+    
+}
+footer p,footer li {
+    color: white;
+
+}
+
+footer ul li.top-one {
+    font-weight: bold;
+}
+
+footer li{
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 30px;
+    list-style: none;
+ }
+
+ .footer-bottom {
+     padding-bottom: 20px;
+ }
